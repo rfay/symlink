@@ -13,3 +13,4 @@ func main() {
 		fmt.Printf("Failed to symlink: %v\n", err)
 	}
 }
+
